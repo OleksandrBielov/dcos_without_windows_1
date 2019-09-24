@@ -1,0 +1,5 @@
+{
+  "dcos-terraform/windows-instance_python/aws": {
+    "source": "git::https://github.com/KostiantynOleksiienko/terraform-aws-windows-instance.git?ref=cluster_plus_win-node"
+  }
+}
